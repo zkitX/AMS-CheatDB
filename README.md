@@ -1,6 +1,7 @@
 # AMS-CheatDB
 
 * Download the latest cheats [here](https://github.com/zkitX/AMS-CheatDB/archive/master.zip)
+* Download EdiZon for better cheat selection [here!](https://github.com/WerWolv/EdiZon/releases)
 * [Credits](#Credits)
 # Current Cheats
 
