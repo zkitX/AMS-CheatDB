@@ -1,4 +1,4 @@
-[From MAX-CHEATS.com by optantic for Super Mario Odyssey 1.0.0]
+[Credits: optantic]
 
 [9999 Coins Save 1]
 02100000 619ED858 0000270f
