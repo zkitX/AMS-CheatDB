@@ -1,4 +1,4 @@
-[From MAX-CHEATS.com by optantic for GUNBIRD for Nintendo Switch]
+[GUNBIRD]
 
 [P1 Infinite Lives]
 01000000 012e0098 00000009

@@ -1,3 +1,5 @@
+[Crash Bandicoot N. Sane Trilogy]
+
 [Crash 1 - 255 Lives]
 580F0000 03CDF188
 780F1000 000054C0

@@ -1,4 +1,4 @@
-[From MAX-CHEATS.com by eco95 for BlazBlue Cross Tag Battle]
+[BlazBlue Cross Tag Battle]
 
 [Inf Coins]
 04000000 013C6C10 0098967F

@@ -1,4 +1,4 @@
-[From MAX-CHEATS.com by eco95 for Nickelodeon Kart Racers (V1.0.3)]
+[Nickelodeon Kart Racers 1.0.3]
 
 [#01# Inf Money]
 580f0000 007060D0

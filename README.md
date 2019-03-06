@@ -81,6 +81,7 @@
 ### G
 |Name|TitleID|Region
 |--|--|--
+|Golf Story|[0100779004172000](../../tree/master/atmosphere/titles/0100779004172000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |GUNBIRD|[01003C6008940000](../../tree/master/atmosphere/titles/01003C6008940000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |GUNBIRD 2|[0100BCB00AE98000](../../tree/master/atmosphere/titles/0100BCB00AE98000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 
