@@ -31,6 +31,7 @@
 |ACA NEOGEO NINJA COMBAT|[010052a00a306000](../../tree/master/atmosphere/titles/010052a00a306000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO NINJA COMMANDO|[01007E800AFB6000](../../tree/master/atmosphere/titles/01007E800AFB6000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO PREHISTORIC ISLE 2|[0100A7800AFAA000](../../tree/master/atmosphere/titles/0100A7800AFAA000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
+|ACA NEOGEO Real Bout Fatal Fury|[010030f008730000](../../tree/master/atmosphere/titles/010030f008730000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO ROBO ARMY|[01000c9004fa2000](../../tree/master/atmosphere/titles/01000c9004fa2000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO Samurai Shodown IV|[010047F001DBC000](../../tree/master/atmosphere/titles/010047F001DBC000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
 |ACA NEOGEO SENGOKU|[0100d170038ea000](../../tree/master/atmosphere/titles/0100d170038ea000/cheats)|![WLD](http://nswdb.com/images/WLD.jpg)
