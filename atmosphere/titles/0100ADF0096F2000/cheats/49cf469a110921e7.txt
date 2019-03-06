@@ -1,4 +1,4 @@
-[From MAX-CHEATS.com by optantic for Samurai Aces for Nintendo Switch 1.0.0]
+[Samurai Aces 1.0.0]
 
 [P1 Infinite Lives]
 01000000 012adc52 000000009
