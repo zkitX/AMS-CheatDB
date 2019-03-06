@@ -1,8 +1,4 @@
-[From MAX-CHEATS.com by Retroboy for Sonic Mania Plus]
-
-[CODES BY GAMEGADGETSUK]
-[UK RESELLER SX PRO DONGES]
-[https://www.facebook.com/GameGadgetsuk]
+[Sonic Mania Plus]
 
 [9999999 Score]
 04010000 006c7644 0098967F

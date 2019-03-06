@@ -1,4 +1,4 @@
-[From MAX-CHEATS.com by optantic for Guacamelee 2 1.0.3]
+[Guacamelee 2 1.0.3]
 
 [99999 Coins]
 04000000 0120c220 0001869f

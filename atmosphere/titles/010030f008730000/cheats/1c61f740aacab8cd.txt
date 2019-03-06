@@ -1,4 +1,4 @@
-[From MAX-CHEATS.com by eco95 for ACA NEOGEO Real Bout Fatal Fury]
+[ACA NEOGEO Real Bout Fatal Fury]
 
 [P1 Infinite HP]
 01000000 0125b458 000000C0

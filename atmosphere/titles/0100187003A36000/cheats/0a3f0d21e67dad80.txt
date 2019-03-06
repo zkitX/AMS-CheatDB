@@ -1,13 +1,15 @@
-[All Pokémon Shiny (Hold B) (Handheld Only)]
+[Pokemon Let's Go Eevee!]
+
+[All Pokemon Shiny (Hold B) (Handheld Only)]
 04000000 007399f4 540002e0
 80000002
 04000000 007399f4 14000027
 20000000
 
-[All Pokémon Shiny Always]
+[All Pokemon Shiny Always]
 04000000 007399f4 14000027
 
-[Normal Pokémon Shiny Odds]
+[Normal Pokemon Shiny Odds]
 04000000 007399f4 540002e0
 
 [Max Money]
