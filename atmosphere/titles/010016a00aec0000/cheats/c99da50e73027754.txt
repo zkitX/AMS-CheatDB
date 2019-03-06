@@ -1,6 +1,5 @@
 [Warriors Orochi 4 V 1.0.6]
 
-
 [999 Courage Affix]
 041F0000 119fc83e 000003E7
 
